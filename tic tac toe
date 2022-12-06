@@ -114,3 +114,98 @@ def main():
        
 
 main()
+
+
+Enter 1 for single player, 2 for multiplayer: 2
+Current State Of Board : 
+
+
+-  -  -  
+
+-  -  -  
+
+-  -  -  
+
+
+Enter X's position from [1...9]: 1
+Current State Of Board : 
+
+
+X  -  -  
+
+-  -  -  
+
+-  -  -  
+
+
+Enter O's position from [1...9]: 2
+Current State Of Board : 
+
+
+X  O  -  
+
+-  -  -  
+
+-  -  -  
+
+
+Enter X's position from [1...9]: 4
+Current State Of Board : 
+
+
+X  O  -  
+
+X  -  -  
+
+-  -  -  
+
+
+Enter O's position from [1...9]: 7
+Current State Of Board : 
+
+
+X  O  -  
+
+X  -  -  
+
+O  -  -  
+
+
+Enter X's position from [1...9]: 5
+Current State Of Board : 
+
+
+X  O  -  
+
+X  X  -  
+
+O  -  -  
+
+
+Enter O's position from [1...9]: 9
+Current State Of Board : 
+
+
+X  O  -  
+
+X  X  -  
+
+O  -  O  
+
+
+Enter X's position from [1...9]: 6
+Current State Of Board : 
+
+
+X  O  -  
+
+X  X  X  
+
+O  -  O  
+
+
+X Wins!!! Y Loose !!!
+
+
+...Program finished with exit code 0
+Press ENTER to exit console.
